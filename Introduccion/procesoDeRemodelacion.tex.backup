@@ -1,0 +1,42 @@
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Proceso de Remodelación en BMU}
+	\begin{tikzpicture}[remember picture,overlay]
+	  \node[anchor=south west, inner sep=0pt] at (current page.south west) {%
+    \movie[%
+	    height = \paperheight,%
+	    width = \paperwidth,%
+	    poster,%
+			showcontrols]{}{./Video/oc-ob.mp4}%
+      };
+  \end{tikzpicture}
+\end{frame}
+% %
+% Auxiliar, uncoment for Windows and commnet above frame.
+%
+%
+% \begin{frame}{Proceso de Remodelación en BMU}
+% 		\begin{tikzpicture}[remember picture,overlay]
+% 	    \node[anchor=south west, inner sep=0pt] at (current page.south west) {%
+%        \includemedia[
+% 	        addresource=./Video/oc-ob.mp4,
+%           activate=pageopen,transparent,
+%           flashvars={source=./Video/oc-ob.flv},
+%           width=\paperwidth,height=\paperheight
+%           ]{}{VPlayer.swf}%
+%           %{StrobeMediaPlayback.swf}
+%          };
+%       \end{tikzpicture}
+% \end{frame}
+% \begin{frame}
+%  \includemedia[
+%   width=0.6\linewidth,height=0.6\linewidth,
+%   activate=pageopen,
+%   transparent,
+%   addresource=./Video/oc-ob.flv,
+%   flashvars={
+% 	source=./Video/oc-ob.flv     % same path as in addresource!
+%    &loop=true           % loop video
+%    &scaleMode=letterbox % preserve aspect ratio
+%   }
+% ]{}{VPlayer9.swf}
+% \end{frame}
