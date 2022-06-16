@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.12)  16 JUN 2022 15:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.12)  16 JUN 2022 16:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1649,8 +1649,8 @@ LaTeX Font Info:    Trying to load font information for T1+phv on input line 72
 (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 ) (./main.aux
-LaTeX Info: Redefining \. on input line 32.
-LaTeX Info: Redefining \% on input line 32.
+LaTeX Info: Redefining \. on input line 30.
+LaTeX Info: Redefining \% on input line 30.
 
 <Reading QR code for "https://github.com/SaulDiazInfante/Beamer-xxx-semana-unis
 on-2020-AppliedMathematicsWorkshop-.git" at level 6-M from aux file.>
@@ -2320,11 +2320,7 @@ ne 25.
  (./bu1.aux)
 \openout7 = `bu1.aux'.
 
-
-
-LaTeX Warning: Citation `Raggatt2010' undefined on input line 25.
-
-(./bu1.bbl) (./bu1.aux)
+ (./bu1.bbl) (./bu1.aux)
 No file bu.aux.
 
 Overfull \vbox (55.61316pt too high) detected at line 25
@@ -2342,11 +2338,7 @@ ne 25.
  (./bu2.aux)
 \openout7 = `bu2.aux'.
 
-
-
-LaTeX Warning: Citation `Raggatt2010' undefined on input line 25.
-
-(./bu2.bbl)
+ (./bu2.bbl) (./bu2.aux)
 No file bu.aux.
 
 Overfull \vbox (55.61316pt too high) detected at line 25
@@ -2383,22 +2375,15 @@ Overfull \vbox (16.25587pt too high) detected at line 25
 ] (./bu3.aux)
 \openout7 = `bu3.aux'.
 
-
-
-LaTeX Warning: Citation `Komarova2003' undefined on input line 63.
-
-(./bu3.bbl)
+ (./bu3.bbl)
+(./bu3.aux)
 No file bu.aux.
 [70
 
 ] (./bu4.aux)
 \openout7 = `bu4.aux'.
 
-
-
-LaTeX Warning: Citation `Komarova2003' undefined on input line 63.
-
-(./bu4.bbl)
+ (./bu4.bbl) (./bu4.aux)
 No file bu.aux.
 [71
 
@@ -2418,11 +2403,7 @@ Overfull \hbox (1.1343pt too wide) in paragraph at lines 63--63
 (./bu5.aux)
 \openout7 = `bu5.aux'.
 
-
-
-LaTeX Warning: Citation `Komarova2003' undefined on input line 63.
-
-(./bu5.bbl)
+ (./bu5.bbl) (./bu5.aux)
 No file bu.aux.
 [72
 
@@ -2458,10 +2439,7 @@ ne 63.
 \openout7 = `bu6.aux'.
 
 
-
-LaTeX Warning: Citation `Jerez2015a' undefined on input line 95.
-
-(./bu6.bbl)
+(./bu6.bbl) (./bu6.aux)
 No file bu.aux.
 [77
 
@@ -2476,22 +2454,15 @@ input line 95.
  (./bu7.aux)
 \openout7 = `bu7.aux'.
 
-
-
-LaTeX Warning: Citation `Jerez2015a' undefined on input line 95.
-
-(./bu7.bbl)
+ (./bu7.bbl) (./bu7.aux)
 No file bu.aux.
 [78
 
  <./IMAGES/Komarova/silviaModelDescripcion.png>] (./bu8.aux)
 \openout7 = `bu8.aux'.
 
-
-
-LaTeX Warning: Citation `Jerez2015a' undefined on input line 95.
-
-(./bu8.bbl)
+ (./bu8.bbl)
+(./bu8.aux)
 No file bu.aux.
 [79
 
@@ -2505,11 +2476,7 @@ Package pdftex.def Info: ./IMAGES/Komarova/silviaModel1.png  used on input line
  (./bu9.aux)
 \openout7 = `bu9.aux'.
 
-
-
-LaTeX Warning: Citation `Jerez2015a' undefined on input line 95.
-
-(./bu9.bbl)
+ (./bu9.bbl) (./bu9.aux)
 No file bu.aux.
 [80
 
@@ -2523,11 +2490,7 @@ Package pdftex.def Info: ./IMAGES/Komarova/silviaModel2.png  used on input line
  (./bu10.aux)
 \openout7 = `bu10.aux'.
 
-
-
-LaTeX Warning: Citation `Jerez2015a' undefined on input line 95.
-
-(./bu10.bbl)
+ (./bu10.bbl) (./bu10.aux)
 No file bu.aux.
 [81
 
@@ -2544,33 +2507,21 @@ File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 (./bu11.aux)
 \openout7 = `bu11.aux'.
 
-
-
-LaTeX Warning: Citation `Mao2002' undefined on input line 44.
-
-(./bu11.bbl)
+ (./bu11.bbl) (./bu11.aux)
 No file bu.aux.
 [83
 
 ] (./bu12.aux)
 \openout7 = `bu12.aux'.
 
-
-
-LaTeX Warning: Citation `Ripa1996' undefined on input line 44.
-
-(./bu12.bbl)
+ (./bu12.bbl) (./bu12.aux)
 No file bu.aux.
 [84
 
 ] (./bu13.aux)
 \openout7 = `bu13.aux'.
 
-
-
-LaTeX Warning: Citation `Allen2013' undefined on input line 44.
-
-(./bu13.bbl)
+ (./bu13.bbl) (./bu13.aux)
 No file bu.aux.
 [85
 
@@ -2579,44 +2530,29 @@ No file bu.aux.
 ] (./bu14.aux)
 \openout7 = `bu14.aux'.
 
-
-
-LaTeX Warning: Citation `Allen2017' undefined on input line 67.
-
-(./bu14.bbl)
+ (./bu14.bbl)
+(./bu14.aux)
 No file bu.aux.
 [87
 
 ] (./bu15.aux)
 \openout7 = `bu15.aux'.
 
-
-
-LaTeX Warning: Citation `Gray2011' undefined on input line 67.
-
-(./bu15.bbl)
+ (./bu15.bbl) (./bu15.aux)
 No file bu.aux.
 [88
 
 ] (./bu16.aux)
 \openout7 = `bu16.aux'.
 
-
-
-LaTeX Warning: Citation `Schurz2015' undefined on input line 67.
-
-(./bu16.bbl)
+ (./bu16.bbl) (./bu16.aux)
 No file bu.aux.
 [89
 
 ] (./bu17.aux)
 \openout7 = `bu17.aux'.
 
-
-
-LaTeX Warning: Citation `Allen2016' undefined on input line 67.
-
-(./bu17.bbl)
+ (./bu17.bbl) (./bu17.aux)
 No file bu.aux.
 [90
 
@@ -2743,35 +2679,24 @@ ge interlaced PNG might cause out of memory (use non-interlaced PNG to fix this
 \openout7 = `bu18.aux'.
 
 
-
-LaTeX Warning: Citation `Jerez2017' undefined on input line 18.
-
 (./bu18.bbl
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10> not available
 (Font)              Font shape `T1/phv/b/sl' tried instead on input line 6.
-)
+) (./bu18.aux)
 No file bu.aux.
 [110
 
 ] (./bu19.aux)
 \openout7 = `bu19.aux'.
 
-
-
-LaTeX Warning: Citation `Jerez2017' undefined on input line 18.
-
-(./bu19.bbl)
+ (./bu19.bbl) (./bu19.aux)
 No file bu.aux.
 [111
 
 ] (./bu20.aux)
 \openout7 = `bu20.aux'.
 
-
-
-LaTeX Warning: Citation `Jerez2017' undefined on input line 18.
-
-(./bu20.bbl)
+ (./bu20.bbl) (./bu20.aux)
 No file bu.aux.
 [112
 
@@ -2909,7 +2834,7 @@ LaTeX Warning: Citation `FineAIandKass1966' undefined on input line 420.
 
 LaTeX Warning: Empty `thebibliography' environment on input line 4.
 
-)
+) (./bu21.aux)
 No file bu.aux.
 
 Overfull \vbox (10.91124pt too high) detected at line 420
@@ -2929,12 +2854,7 @@ Overfull \vbox (10.91124pt too high) detected at line 420
 \tf@snm=\write11
 \openout11 = `main.snm'.
 
-
-
-Package bibunits Warning: Label(s) may have changed. Rerun to get cross-referen
-ces right.
-
-[130] (./main.aux
+ (./main.aux
 LaTeX Info: Redefining \. on input line 30.
 LaTeX Info: Redefining \% on input line 30.
 
@@ -2944,23 +2864,14 @@ on-2020-AppliedMathematicsWorkshop-.git" at level 6-M from aux file.>
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Temporary extra page added at the end. Rerun to get it removed.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: DF5463E556CD32313A5EF74BB4A2E405;770
-(rerunfilecheck)             After:  C7E60F90A4FCCC917E0436CFA52EB89C;2022.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: C7E60F90A4FCCC917E0436CFA52EB89C;2022.
  ) 
 Here is how much of TeX's memory you used:
- 70371 strings out of 478268
- 1775922 string characters out of 5846353
- 3908300 words of memory out of 5000000
- 86954 multiletter control sequences out of 15000+600000
+ 70420 strings out of 478268
+ 1776349 string characters out of 5846353
+ 3908292 words of memory out of 5000000
+ 86963 multiletter control sequences out of 15000+600000
  599479 words of font info for 210 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,25n,150p,1951b,2478s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3009,10 +2920,10 @@ st/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2022/texmf-dist/font
 s/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type
 1/urw/symbol/usyr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/symbo
 l/usyr.pfb>
-Output written on main.pdf (130 pages, 3098267 bytes).
+Output written on main.pdf (129 pages, 3097602 bytes).
 PDF statistics:
- 1151 PDF objects out of 1200 (max. 8388607)
- 919 compressed objects within 10 object streams
+ 1148 PDF objects out of 1200 (max. 8388607)
+ 917 compressed objects within 10 object streams
  298 named destinations out of 1000 (max. 500000)
  250 words of extra memory for PDF output out of 10000 (max. 10000000)
 
